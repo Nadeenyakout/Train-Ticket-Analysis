@@ -104,11 +104,6 @@ jupyter notebook notebooks/temp.ipynb
 - Identifying **leading causes of delays** helps improve railway services.
 - SQL & Python-based analysis allows **efficient reporting & visualization**.
 
----
-### 📢 **Next Steps:**
-✅ **Refine SQL queries for more insights**
-✅ **Automate report generation**
-✅ **Upload final version to GitHub**
 
-Let me know if you need modifications! 🚀😊
+
 
